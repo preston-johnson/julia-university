@@ -1,2 +1,2 @@
 # Julia University
-A free, libre, and open-source tool for learning the Julia programming language.
+A free (gratis & libre) and open-source tool for learning the Julia programming language.
