@@ -9,7 +9,7 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"julialang.language-julia",
-				"peymanslh.blueberry-dark-theme",
+				"nicolasdschmidt.lunar-pink",
 				"github.copilot",
 				"github.copilot-chat"
 			]
